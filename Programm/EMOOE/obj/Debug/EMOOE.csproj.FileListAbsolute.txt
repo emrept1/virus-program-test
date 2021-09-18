@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\bin\Debug\EMOOE.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\bin\Debug\EMOOE.exe
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\bin\Debug\EMOOE.pdb
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.exe
+c:\users\acer\documents\visual studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\EMOOE\EMOOE\obj\Debug\EMOOE.Form2.resources
